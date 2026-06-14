@@ -1,4 +1,5 @@
 Heritage Bank Customer Analytics Dashboard
+
 Project Overview
 
 This Power BI dashboard analyses customer demographics, income, tenure, and occupation data to help Heritage Bank better understand its customer base and support data-driven decision-making.
