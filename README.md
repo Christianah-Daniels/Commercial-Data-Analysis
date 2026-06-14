@@ -8,11 +8,14 @@ Objective
 
 To provide stakeholders with a clear view of customer characteristics, identify trends across regions and banking segments, and support customer engagement and retention strategies.
 
+
 Tools Used
 Power BI
 Power Query
 DAX
 Excel
+
+
 Key Features
 Customer Overview (Total Customers, Average Age, Income, and Tenure)
 Regional Analysis (East, North, South, West)
